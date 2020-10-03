@@ -9,6 +9,12 @@ Please check each submodule for details.
 git clone --recursive https://github.com/UMich-CURLY/minicheetah-perception.git
 ```
 
+Use scripts or build manually
+```
+./scripts/build_submodules.sh
+./scripts/catkin_make.sh
+```
+
 ### install inekf
 ```
 cd submodules/invariant-ekf/
