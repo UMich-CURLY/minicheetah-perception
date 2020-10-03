@@ -5,7 +5,9 @@ This repo contains packages for running the perception system on the mini-cheeta
 Please check each submodule for details.
 
 ## Installation
-git clone --recursive git@github.com:UMich-CURLY/minicheetah-perception.git
+```
+git clone --recursive https://github.com/UMich-CURLY/minicheetah-perception.git
+```
 
 ### install inekf
 ```
