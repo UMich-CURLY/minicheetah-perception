@@ -3,7 +3,7 @@
 	url = https://github.com/UMich-CURLY/invariant-ekf.git
 [submodule "submodules/octomap"]
 	path = submodules/octomap
-	url = https://github.com/UMich-BipedLab/octomap.git
+	url = https://github.com/UMich-CURLY/octomap.git
 [submodule "catkin_ws/src/BKISemanticMapping"]
 	path = catkin_ws/src/BKISemanticMapping
 	url = https://github.com/UMich-CURLY/BKISemanticMapping.git
