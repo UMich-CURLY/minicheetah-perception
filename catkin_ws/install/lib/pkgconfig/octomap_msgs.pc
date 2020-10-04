@@ -1,8 +1,0 @@
-prefix=/media/jetson256g/code/minicheetah-perception/catkin_ws/install
-
-Name: octomap_msgs
-Description: Description of octomap_msgs
-Version: 0.3.5
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: message_runtime geometry_msgs std_msgs

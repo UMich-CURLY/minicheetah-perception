@@ -1,8 +1,0 @@
-prefix=/media/jetson256g/code/minicheetah-perception/catkin_ws/install
-
-Name: mini-cheetah
-Description: Description of mini-cheetah
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: 

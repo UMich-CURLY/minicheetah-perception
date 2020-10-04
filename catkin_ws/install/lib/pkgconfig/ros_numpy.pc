@@ -1,8 +1,0 @@
-prefix=/media/jetson256g/code/minicheetah-perception/catkin_ws/install
-
-Name: ros_numpy
-Description: Description of ros_numpy
-Version: 0.0.3
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

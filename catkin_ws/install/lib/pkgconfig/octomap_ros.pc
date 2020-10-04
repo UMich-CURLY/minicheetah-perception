@@ -1,8 +1,0 @@
-prefix=/media/jetson256g/code/minicheetah-perception/catkin_ws/install
-
-Name: octomap_ros
-Description: Description of octomap_ros
-Version: 0.4.1
-Cflags: -I${prefix}/include -I/media/jetson256g/code/minicheetah-perception/submodules/octomap/octomap/include
-Libs: -L${prefix}/lib -loctomap_ros /media/jetson256g/code/minicheetah-perception/submodules/octomap/lib/liboctomap.so /media/jetson256g/code/minicheetah-perception/submodules/octomap/lib/liboctomath.so
-Requires: octomap_msgs sensor_msgs tf

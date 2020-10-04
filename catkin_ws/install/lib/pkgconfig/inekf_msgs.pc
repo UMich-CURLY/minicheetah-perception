@@ -1,8 +1,0 @@
-prefix=/media/jetson256g/code/minicheetah-perception/catkin_ws/install
-
-Name: inekf_msgs
-Description: Description of inekf_msgs
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: message_runtime
