@@ -1,0 +1,23 @@
+(cl:defpackage inekf_msgs-msg
+  (:use )
+  (:export
+   "<CONTACT>"
+   "CONTACT"
+   "<CONTACTARRAY>"
+   "CONTACTARRAY"
+   "<KINEMATICS>"
+   "KINEMATICS"
+   "<KINEMATICSARRAY>"
+   "KINEMATICSARRAY"
+   "<LANDMARK>"
+   "LANDMARK"
+   "<LANDMARKARRAY>"
+   "LANDMARKARRAY"
+   "<LANDMARKSTAMPED>"
+   "LANDMARKSTAMPED"
+   "<STATE>"
+   "STATE"
+   "<VECTORWITHID>"
+   "VECTORWITHID"
+  ))
+

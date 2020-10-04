@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /media/jetson256g/code/minicheetah-perception/catkin_ws/install/setup.sh

@@ -1,0 +1,8 @@
+prefix=/media/jetson256g/code/minicheetah-perception/catkin_ws/install
+
+Name: inekf_ros
+Description: Description of inekf_ros
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs sensor_msgs inekf_msgs tf
