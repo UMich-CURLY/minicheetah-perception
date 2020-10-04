@@ -52,7 +52,11 @@ Use minicheetah branch for invariant-ekf-ros
 cd catkin_ws/src/invariant-ekf-ros/
 git checkout minicheetah
 ```
-Then build the catkin workspace
+Then build the catkin workspace, ou can use the script or manually build it
+```
+./scripts/catkin_make.sh
+```
+
 ```
 cd catkin_ws
 catkin_make install -DCMAKE_BUILD_TYPE=Release -DOCTOMAP_DIR=${your_octomap_source_directory}/lib/cmake/octomap/ -Doctomap_DIR=${your_octomap_source_directory}/lib/cmake/octomap/
