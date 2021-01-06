@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/opt/ros/kinetic/include/**",
+                "/media/justin/CURLY_Justin/code/minicheetah-perception/catkin_ws/devel/include/**",
+                "/media/curly_ssd_justin/code/minicheetah-perception/catkin_ws/src/SegmentationMapping/include/**",
+                "/media/curly_ssd_justin/code/minicheetah-perception/catkin_ws/src/invariant-ekf-ros/inekf_ros/include/**",
+                "/media/curly_ssd_justin/code/minicheetah-perception/catkin_ws/src/minicheetah-lcm2ros/include/**",
+                "/media/curly_ssd_justin/code/minicheetah-perception/catkin_ws/src/octomap_msgs/include/**",
+                "/media/curly_ssd_justin/code/minicheetah-perception/catkin_ws/src/octomap_ros/include/**",
+                "/media/curly_ssd_justin/code/minicheetah-perception/catkin_ws/src/BKISemanticMapping/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "compilerPath": "/usr/bin/clang"
+        }
+    ],
+    "version": 4
+}

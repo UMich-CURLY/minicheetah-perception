@@ -10,9 +10,6 @@
 [submodule "catkin_ws/src/SegmentationMapping"]
 	path = catkin_ws/src/SegmentationMapping
 	url = https://github.com/UMich-CURLY/SegmentationMapping.git
-[submodule "catkin_ws/src/invariant-ekf-ros"]
-	path = catkin_ws/src/invariant-ekf-ros
-	url = https://github.com/UMich-CURLY/invariant-ekf-ros.git
 [submodule "catkin_ws/src/octomap_msgs"]
 	path = catkin_ws/src/octomap_msgs
 	url = https://github.com/OctoMap/octomap_msgs.git
@@ -28,3 +25,9 @@
 [submodule "submodules/Cheetah-Software"]
 	path = submodules/Cheetah-Software
 	url = https://github.com/UMich-CURLY/Cheetah-Software.git
+[submodule "catkin_ws/src/invariant-ekf-ros-new"]
+	path = catkin_ws/src/invariant-ekf-ros-new
+	url = https://github.com/UMich-CURLY/invariant-ekf-ros-new.git
+[submodule "catkin_ws/src/cheetah_inekf_ros"]
+	path = catkin_ws/src/cheetah_inekf_ros
+	url = https://github.com/UMich-CURLY/cheetah_inekf_ros.git
