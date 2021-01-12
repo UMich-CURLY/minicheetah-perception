@@ -22,9 +22,6 @@
 [submodule "catkin_ws/src/minicheetah-lcm2ros"]
 	path = catkin_ws/src/minicheetah-lcm2ros
 	url = https://github.com/UMich-CURLY/minicheetah-lcm2ros.git
-[submodule "submodules/Cheetah-Software"]
-	path = submodules/Cheetah-Software
-	url = https://github.com/UMich-CURLY/Cheetah-Software.git
 [submodule "catkin_ws/src/invariant-ekf-ros-new"]
 	path = catkin_ws/src/invariant-ekf-ros-new
 	url = https://github.com/UMich-CURLY/invariant-ekf-ros-new.git
