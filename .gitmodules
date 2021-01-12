@@ -28,3 +28,6 @@
 [submodule "catkin_ws/src/cheetah_inekf_ros"]
 	path = catkin_ws/src/cheetah_inekf_ros
 	url = https://github.com/UMich-CURLY/cheetah_inekf_ros.git
+[submodule "submodules/Cheetah-Software"]
+	path = submodules/Cheetah-Software
+	url = https://github.com/UMich-CURLY/Cheetah-Software.git
