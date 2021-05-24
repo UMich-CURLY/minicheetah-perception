@@ -3,6 +3,9 @@ This repo contains packages for running the perception system on the mini-cheeta
 
 ## Dependencies
 Please check each submodule for details.
+* LCM
+* PCL
+* opencv
 
 ## Installation
 ```
