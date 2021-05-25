@@ -35,7 +35,8 @@ make
 
 ### Intel Realsense SDK 2.0
 We use Intel RealSense camera for data input
-https://github.com/IntelRealSense/librealsense/blob/development/doc/distribution_linux.md
+* https://github.com/IntelRealSense/librealsense/blob/development/doc/distribution_linux.md
+* https://github.com/IntelRealSense/realsense-ros
 
 ### ROS packages
 We have several packages:
