@@ -3,6 +3,9 @@ This repo contains packages for running the perception system on the mini-cheeta
 
 ## Dependencies
 Please check each submodule for details.
+* LCM
+* PCL
+* opencv
 
 ## Installation
 ```
@@ -53,7 +56,7 @@ Use minicheetah branch for invariant-ekf-ros
 cd catkin_ws/src/invariant-ekf-ros/
 git checkout minicheetah
 ```
-Then build the catkin workspace, ou can use the script or manually build it
+Then build the catkin workspace, you can use the script or manually build it
 ```
 ./scripts/catkin_make.sh
 ```
