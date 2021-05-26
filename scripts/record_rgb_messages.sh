@@ -7,14 +7,8 @@ rosbag record \
 /Imu \
 /JointState \
 /camera/accel/imu_info \
-/camera/align_to_color/parameter_descriptions \
-/camera/align_to_color/parameter_updates \
-/camera/aligned_depth_to_color/camera_info \
-/camera/aligned_depth_to_color/image_raw \
 /camera/color/camera_info \
 /camera/color/image_raw \
-/camera/depth/camera_info \
-/camera/depth/image_rect_raw \
 /camera/extrinsics/depth_to_color \
 /camera/gyro/imu_info \
 /camera/imu \
@@ -34,3 +28,4 @@ rosbag record \
 /rosout_agg \
 /tf \
 /tf_static
+
